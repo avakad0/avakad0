@@ -31,4 +31,6 @@ FRONT END DEVELOPER
 
 ### Socials
 
+<a href="https://www.linkedin.com/in/weston-d-88264a91/" target="_blank" rel="noreferrer"><img src="https://github.com/avakad0/avakad0/blob/main/Social%20Icons/linkedin-icon-2.svg" width="36" height="36" alt="Linkedin" /></a>
+
 ### Support Me

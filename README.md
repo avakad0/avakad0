@@ -24,6 +24,13 @@ FRONT END DEVELOPER
 
 ### Badges
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avakad0&show_icons=true)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avakad0)](https://github.com/avakad0/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avakad0&show_icons=true&theme=github_dark)
+
+
 ### Socials
 
 ### Support Me

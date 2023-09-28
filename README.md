@@ -27,7 +27,7 @@ FRONT END DEVELOPER
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avakad0&show_icons=true&theme=github_dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avakad0&show_icons=true&theme=github-dark-blue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avakad0&show_icons=true&theme=tokyonight)
 
 ### Socials
 

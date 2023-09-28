@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FRONT END DEVELOPER
 --------------------
 
-...
+![Weston DuHamel Personal Website](https://wes-portfolio-site-6a9596.webflow.io/)
 
 * 🖥️  See my portfolio at [ALL ABOUT ME](http://idleactive.com)
 * 🧠  I'm studying A+, learning React and Typescript
@@ -24,8 +24,10 @@ FRONT END DEVELOPER
 
 ### Badges
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avakad0&show_icons=true&theme=github_dark)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=avakad0&theme=github-dark-blue)](https://git.io/streak-stats)
 
 ### Socials
 

@@ -25,7 +25,7 @@ FRONT END DEVELOPER
 ### Badges
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avakad0&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avakad0&show_icons=true&theme=github_dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=avakad0&theme=git-hub-dark)](https://git.io/streak-stats)
 

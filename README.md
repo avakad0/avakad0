@@ -9,6 +9,12 @@ FRONT END DEVELOPER
 * 🖥️  See my portfolio at [ALL ABOUT ME](http://idleactive.com)
 * 🧠  I'm studying A+, learning React and Typescript
 * ⚡  I am also GRAPHIC DESIGNER
+* 🎮  I'm a Gamer too!
+
+<a href="" target="blank"><img align="center" src="https://github.com/avakad0/avakad0/blob/main/Game%20Icons/Steam.png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/avakad0/avakad0/blob/main/Game%20Icons/valorant.png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/avakad0/avakad0/blob/main/Game%20Icons/Overwatch2.png" height="30" /></a>
+
 
 ### Skills
 

@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Weston Duhamel!
+Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Weston Duhamel!
 =====================================================================================================================================
 
 FRONT END DEVELOPER
 --------------------
 
-...
+![My Website](https://wes-portfolio-site-6a9596.webflow.io/)
 
 * 🖥️  See my portfolio at [ALL ABOUT ME](http://idleactive.com)
 * 🧠  I'm studying A+, learning React and Typescript
@@ -23,6 +23,11 @@ FRONT END DEVELOPER
 </p>
 
 ### Badges
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avakad0&show_icons=true&theme=github_dark)
+
+[![GitHub Streak](https://github-readme-streak-stats-avakad0.vercel.app?user=avakad0&theme=github-dark-blue)](https://git.io/streak-stats)
 
 ### Socials
 

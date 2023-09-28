@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Weston Duhamel!
+Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Weston Duhamel!
 =====================================================================================================================================
 
 FRONT END DEVELOPER
@@ -27,7 +27,7 @@ FRONT END DEVELOPER
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avakad0&show_icons=true&theme=github_dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=avakad0&theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-avakad0.vercel.app?user=avakad0&theme=github-dark-blue)](https://git.io/streak-stats)
 
 ### Socials
 

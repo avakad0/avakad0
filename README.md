@@ -14,7 +14,7 @@ FRONT END DEVELOPER
 <a href="" target="blank"><img align="center" src="https://github.com/avakad0/avakad0/blob/main/Game%20Icons/Steam.png" height="30" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/avakad0/avakad0/blob/main/Game%20Icons/valorant.png" height="30" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/avakad0/avakad0/blob/main/Game%20Icons/Overwatch2.png" height="30" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/avakad0/avakad0/blob/main/Game%20Icons/5e%20D%26D%20Logo.svg" height="40" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/avakad0/avakad0/blob/main/Game%20Icons/5e%20D%26D%20Logo.svg" height="45" /></a>
 
 
 ### Skills

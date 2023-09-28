@@ -9,6 +9,12 @@ FRONT END DEVELOPER
 * 🖥️  See my portfolio at [ALL ABOUT ME](http://idleactive.com)
 * 🧠  I'm studying A+, learning React and Typescript
 * ⚡  I am also GRAPHIC DESIGNER
+* 🎮  I'm a Gamer too!
+
+<a href="" target="blank"><img align="center" src="https://github.com/avakad0/avakad0/blob/main/Game%20Icons/Steam.png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/avakad0/avakad0/blob/main/Game%20Icons/valorant.png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/avakad0/avakad0/blob/main/Game%20Icons/Overwatch2.png" height="30" /></a>
+
 
 ### Skills
 
@@ -30,5 +36,7 @@ FRONT END DEVELOPER
 [![GitHub Streak](https://github-readme-streak-stats-avakad0.vercel.app?user=avakad0&theme=github-dark-blue)](https://git.io/streak-stats)
 
 ### Socials
+
+<a href="https://www.linkedin.com/in/weston-d-88264a91/" target="_blank" rel="noreferrer"><img src="https://github.com/avakad0/avakad0/blob/main/Social%20Icons/linkedin-icon-2.svg" width="36" height="36" alt="Linkedin" /></a>
 
 ### Support Me

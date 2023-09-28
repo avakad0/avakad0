@@ -39,7 +39,7 @@ FRONT END DEVELOPER
 
 <a href="https://www.linkedin.com/in/weston-d-88264a91/" target="_blank" rel="noreferrer"><img src="https://github.com/avakad0/avakad0/blob/main/Social%20Icons/linkedin-icon-2.svg" width="36" height="36" alt="Linkedin" /></a>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1262626846&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1262626846&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1262626846&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1262626846&redirect=true)
 
 ### Support Me
 

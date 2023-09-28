@@ -40,3 +40,5 @@ FRONT END DEVELOPER
 <a href="https://www.linkedin.com/in/weston-d-88264a91/" target="_blank" rel="noreferrer"><img src="https://github.com/avakad0/avakad0/blob/main/Social%20Icons/linkedin-icon-2.svg" width="36" height="36" alt="Linkedin" /></a>
 
 ### Support Me
+
+![Donate](https://www.paypal.com/donate/?business=KW5SUSBDS5K9C&no_recurring=0&item_name=All+donations+are+not+required+but+are+always+welcomed.+Thank+you%21&currency_code=USD)

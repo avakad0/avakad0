@@ -5,11 +5,11 @@ FRONT END DEVELOPER
 --------------------
 
 * 🖥️  See my portfolio at [My Website](https://wes-portfolio-site-6a9596.webflow.io/)
-* 🧠  I'm studying A+, learning Qwik and Typescript
+* 🧠  I'm studying A+ and learning Javascript
 * ⚡  I am also GRAPHIC DESIGNER
 * 🎮  I'm a Gamer too!
 
-<a href="" target="blank"><img align="center" src="https://github.com/avakad0/avakad0/blob/main/Game%20Icons/Steam.png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/avakad0/avakad0/blob/64e28dfed3e0effb38b5548d14f31224f76aede1/Game%20Icons/Steam.png" height="30" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/avakad0/avakad0/blob/main/Game%20Icons/valorant.png" height="30" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/avakad0/avakad0/blob/main/Game%20Icons/Overwatch2.png" height="30" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/avakad0/avakad0/blob/main/Game%20Icons/5e%20D%26D%20Red.svg" height="50" /></a>

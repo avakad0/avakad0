@@ -49,4 +49,4 @@ ENTRY FRONT END DEVELOPER
 
 ### Support Me
 
-❤️☕ [Buy me a coffe]([https://www.buymeacoffee.com/wes7])
+❤️☕ <a href="https://www.buymeacoffee.com/wes7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" ></a>

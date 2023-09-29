@@ -9,6 +9,7 @@ ENTRY FRONT END DEVELOPER
 * ⚡  I am also GRAPHIC DESIGNER
 * 🎮  I'm a Gamer too!
 
+<p align="left">
  <picture align="left">
 <img src="https://raw.githubusercontent.com/avakad0/avakad0/main/Game%20Icons/steampowered-icon.svg" height="30" /> 
   </picture>
@@ -21,6 +22,7 @@ ENTRY FRONT END DEVELOPER
     <picture align="left">
 <img src="https://raw.githubusercontent.com/avakad0/avakad0/main/Game%20Icons/5e%20D%26D%20Red.svg" height="50" />
  </picture>
+</p>
 
 
 ### Skills

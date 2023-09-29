@@ -47,6 +47,6 @@ ENTRY FRONT END DEVELOPER
 <a href="https://www.linkedin.com/in/weston-d-88264a91/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/avakad0/avakad0/main/Social%20Icons/linkedin-icon-2.svg" width="36" height="36" alt="Linkedin" /></a>
 
 
-### Support Me
+### Support Me 💙
 
-❤️☕ <a href="https://www.buymeacoffee.com/wes7" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" /></a>
+<a href="https://www.buymeacoffee.com/wes7" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" /></a>

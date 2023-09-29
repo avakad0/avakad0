@@ -10,10 +10,10 @@ FRONT END DEVELOPER
 * 🎮  I'm a Gamer too!
 
 <p align="left"?
-<a> <img align="center" src="https://github.com/avakad0/avakad0/blob/main/Game%20Icons/Steam.png?raw=true" height="30" /></a>
-<a> <img align="center" src="https://github.com/avakad0/avakad0/blob/main/Game%20Icons/valorant.png?raw=true" height="30" /></a>
-<a> <img align="center" src="https://github.com/avakad0/avakad0/blob/main/Game%20Icons/Overwatch2.png?raw=true" height="30" /></a>
-<a> <img align="center" src="https://github.com/avakad0/avakad0/blob/main/Game%20Icons/5e%20D%26D%20Red.svg?raw=true" height="50" /></a>
+<a> <img align="center" src="https://raw.githubusercontent.com/avakad0/avakad0/main/Game%20Icons/steam-seeklogo.com.svg" height="30" /></a>
+<a> <img align="center" src="https://raw.githubusercontent.com/avakad0/avakad0/main/Game%20Icons/valorant-seeklogo.com.svg" height="30" /></a>
+<a> <img align="center" src="https://raw.githubusercontent.com/avakad0/avakad0/main/Game%20Icons/Overwatch_2_logo.svg" height="30" /></a>
+<a> <img align="center" src="https://raw.githubusercontent.com/avakad0/avakad0/main/Game%20Icons/5e%20D%26D%20Red.svg" height="50" /></a>
 </p>
 
 ### Skills

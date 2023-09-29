@@ -42,4 +42,4 @@ FRONT END DEVELOPER
 
 ### Support Me
 
-❤️![Donate](https://www.paypal.com/donate/?business=KW5SUSBDS5K9C&no_recurring=0&item_name=All+donations+are+not+required+but+are+always+welcomed.+Thank+you%21&currency_code=USD)
+❤️☕![Buy me a coffe]([https://www.buymeacoffee.com/wes7])

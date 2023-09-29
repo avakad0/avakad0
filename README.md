@@ -24,7 +24,6 @@ ENTRY FRONT END DEVELOPER
  </picture>
 </p>
 
-
 ### Skills
 
 

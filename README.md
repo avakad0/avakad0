@@ -4,9 +4,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 FRONT END DEVELOPER
 --------------------
 
-[My Website](https://wes-portfolio-site-6a9596.webflow.io/)
-
-* 🖥️  See my portfolio at [ALL ABOUT ME](http://idleactive.com)
+* 🖥️  See my portfolio at [My Website](https://wes-portfolio-site-6a9596.webflow.io/)
 * 🧠  I'm studying A+, learning Qwik and Typescript
 * ⚡  I am also GRAPHIC DESIGNER
 * 🎮  I'm a Gamer too!

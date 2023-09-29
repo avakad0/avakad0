@@ -20,7 +20,7 @@ ENTRY FRONT END DEVELOPER
 <img src="https://raw.githubusercontent.com/avakad0/avakad0/main/Game%20Icons/Overwatch_2_logo.svg" height="30" />
     </picture>
     <picture>
-<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/avakad0/avakad0/main/Game%20Icons/5e%20D%26D%20Red.svg" height="50" />
+<img align="left" width="30" height="30" src="https://raw.githubusercontent.com/avakad0/avakad0/main/Game%20Icons/5e%20D%26D%20Red.svg" height="50" />
  </picture>
 </p>
 

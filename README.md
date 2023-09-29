@@ -9,7 +9,7 @@ FRONT END DEVELOPER
 * ⚡  I am also GRAPHIC DESIGNER
 * 🎮  I'm a Gamer too!
 
-<p align="left"?
+<p align="left"
 <img align="center" src="https://raw.githubusercontent.com/avakad0/avakad0/main/Game%20Icons/steam-seeklogo.com.svg" height="30" />
 <img align="center" src="https://raw.githubusercontent.com/avakad0/avakad0/main/Game%20Icons/valorant-seeklogo.com.svg" height="30" />
 <img align="center" src="https://raw.githubusercontent.com/avakad0/avakad0/main/Game%20Icons/Overwatch_2_logo.svg" height="30" />

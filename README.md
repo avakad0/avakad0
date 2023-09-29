@@ -42,4 +42,4 @@ FRONT END DEVELOPER
 
 ### Support Me
 
-❤️☕![Buy me a coffe]([https://www.buymeacoffee.com/wes7])
+❤️☕ [Buy me a coffe]([https://www.buymeacoffee.com/wes7])

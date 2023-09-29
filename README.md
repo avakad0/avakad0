@@ -10,10 +10,10 @@ FRONT END DEVELOPER
 * 🎮  I'm a Gamer too!
 
 <p align="left"?
-<a> <img align="center" src="https://raw.githubusercontent.com/avakad0/avakad0/main/Game%20Icons/steam-seeklogo.com.svg" height="30" /></a>
-<a> <img align="center" src="https://raw.githubusercontent.com/avakad0/avakad0/main/Game%20Icons/valorant-seeklogo.com.svg" height="30" /></a>
-<a> <img align="center" src="https://raw.githubusercontent.com/avakad0/avakad0/main/Game%20Icons/Overwatch_2_logo.svg" height="30" /></a>
-<a> <img align="center" src="https://raw.githubusercontent.com/avakad0/avakad0/main/Game%20Icons/5e%20D%26D%20Red.svg" height="50" /></a>
+<img align="center" src="https://raw.githubusercontent.com/avakad0/avakad0/main/Game%20Icons/steam-seeklogo.com.svg" height="30" />
+<img align="center" src="https://raw.githubusercontent.com/avakad0/avakad0/main/Game%20Icons/valorant-seeklogo.com.svg" height="30" />
+<img align="center" src="https://raw.githubusercontent.com/avakad0/avakad0/main/Game%20Icons/Overwatch_2_logo.svg" height="30" />
+<img align="center" src="https://raw.githubusercontent.com/avakad0/avakad0/main/Game%20Icons/5e%20D%26D%20Red.svg" height="50" />
 </p>
 
 ### Skills
@@ -35,7 +35,7 @@ FRONT END DEVELOPER
 
 ### Socials
 
-<a href="https://www.linkedin.com/in/weston-d-88264a91/" target="_blank" rel="noreferrer"><img src="https://github.com/avakad0/avakad0/blob/main/Social%20Icons/linkedin-icon-2.svg" width="36" height="36" alt="Linkedin" /></a>
+<a href="https://www.linkedin.com/in/weston-d-88264a91/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/avakad0/avakad0/main/Social%20Icons/linkedin-icon-2.svg" width="36" height="36" alt="Linkedin" /></a>
 
 
 ### Support Me

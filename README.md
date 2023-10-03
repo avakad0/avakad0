@@ -5,7 +5,7 @@ ENTRY FRONT END DEVELOPER
 --------------------
 
 * 🖥️  See my portfolio at [My Website](https://wes-portfolio-site-6a9596.webflow.io/)
-* 🧠  I'm studying A+ and learning Javascript
+* 🧠  I'm learning Javascript
 * ⚡  I am also GRAPHIC DESIGNER
 * 🎮  I'm a Gamer too!
 
